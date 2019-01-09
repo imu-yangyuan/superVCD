@@ -1,0 +1,5 @@
+其实.mp3=E:\musicClent\temp\其实.mp3
+Lucky Strike.mp3=E:\musicClent\temp\Lucky Strike.mp3
+认真的雪.mp3=E:\musicClent\temp\认真的雪.mp3
+Feelings.mp3=E:\musicClent\temp\Feelings.mp3
+Sugar.mp3=E:\musicClent\temp\Sugar.mp3

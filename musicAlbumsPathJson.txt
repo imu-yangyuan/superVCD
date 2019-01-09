@@ -1,0 +1,1 @@
+[{"albumId":"a2af1516-01cd-46a6-b880-407b45d144d1","albumPath":"E:\\music\\欧美\\Maroon5","photoPath":"E:\\music\\欧美\\Maroon5\\Maroon5.jpg"},{"albumId":"17bd4c4c-0806-40eb-8ae2-b0065c252e30","albumPath":"E:\\music\\华语\\薛之谦","photoPath":"E:\\music\\华语\\薛之谦\\薛之谦.jpg"}]
